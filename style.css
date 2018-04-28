@@ -1,0 +1,269 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+
+.log-in{
+    min-height: 65px;
+    width: 100%;
+    background-color: #3B5998;
+    
+    overflow: hidden;
+}
+
+.logo{
+    float: left;
+    color: white;
+    font-size: 20px;
+    width: 20%;
+    margin-left: 100px;
+    padding: 11px 0px;
+}
+.logo h1{
+    padding: 15px 20px;
+    
+}
+.nav{
+    float: left;
+    width: 39%;
+    color: white;
+    margin-left: 335px;
+}
+.email-name{
+    float: left;
+    padding: 34px 10px 20px 10px;
+    
+}
+.pass{
+    float: left;
+    padding: 34px 0px 9px 10px;
+    
+}
+.pass p{
+    color: #9CABC5;
+    
+}
+.pass p:hover{
+    text-decoration: underline;
+}
+.button{
+    
+    float: left;
+    padding: 47px 5px 0px 10px;
+}
+.sub:hover{
+    background-color:#365899;
+    
+}
+.sub{
+    background-color:#4267B2;
+    color: white;
+    padding: 05px 10px;
+   
+    
+}
+
+.wrapper{
+
+    width: 80%;
+    
+    margin: 0px 180px 0px 120px;
+    overflow: hidden;
+}
+
+.sign-up{
+    min-height: 600px;
+    width: 100%;
+    background-color: #E3E6F0;
+    overflow: hidden;
+}
+.left-side{
+   width: 48%;
+    overflow: hidden;
+    float: left;
+    padding: 33px 15px 0px 0px;
+}
+.left-side h3{
+    font-size: 23px;
+    color: #0E385F;
+}
+.image{
+    width: 100%;
+    padding: 9px 10px;
+    
+}
+.image img{
+    width: 100%;
+}
+.sign-up-side{
+        float: right;
+    width: 46%;
+    
+}
+.upper{
+    min-height: 280px;
+    
+    
+}
+.txt{
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    padding: 5px 65px 5px 0px;
+    
+    margin: 10px 5px 5px 0px; 
+    border: 1px solid lightgray;
+    
+    
+}
+.txt2{
+    height: 30px;
+    width: 308px;
+      border-radius: 5px;
+   padding: 5px 133px 5px 0px;
+    margin: 5px 0px; 
+     border: 1px solid lightgray;
+    
+}
+
+.sign-up-side h1{
+    padding: 10px 10px 10px 0px;
+    font-size: 40px;
+    
+}
+.sign-up-side p{
+    padding: 05px 10px 05px 05px;
+    font-size: 20px;
+}
+::-webkit-input-placeholder{
+    padding-left: 10px;
+    font-size: 20px;
+    color: silver;
+}
+::-moz-placeholder{
+    padding-left: 10px;
+    font-size: 15px;
+}
+:-moz-placeholder{
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+:-ms-input-placeholder{
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.birthday{
+    min-height: 60px;
+    
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.left-birth{
+    
+    width: 50%;
+    float: left;
+}
+.right-birth{
+    color: blue;
+    float: left;
+    width: 40%;
+    padding: 20px 0px 0px 0px;
+    
+    
+}
+.right-birth:hover{
+    text-decoration: underline;
+}
+.right-birth p{
+    font-size: 15px;
+}
+
+.checkfield{
+    height: 30px;
+    width: 70px;
+    
+}
+.labelfield{
+    font-size: 20px;
+    
+    
+}
+.radiofield{
+height: 15px;
+    width: 20px;
+    
+}
+
+.lower2{
+    
+    min-height: 200px;
+    
+}
+.terms{
+    color:dimgray;
+   padding-top: 10px; 
+    
+}
+.terms p{
+    font-size: 15px;
+    
+}
+.spanblue{
+    color: blue;
+    
+}
+.spanblue:hover{
+    text-decoration: underline;
+}
+
+.button2{
+    margin: 10px 0px;
+}
+.signstyle{
+    background-color: #639A4E;
+    height: 35px;
+    width: 200px;
+    border-radius: 07px;
+    font-size: 20px;
+    color: white;
+}
+
+.lower2 p{
+    margin: 30px 0px;
+    color:dimgray;
+    
+}
+
+.footer{
+    min-height: 180px;
+    overflow: hidden;
+}
+
+.p1{
+    padding: 50px  10px 10px 10px;
+    font-size: 15px;
+    color:#365899;
+    border-bottom: 1px solid #DDDFE2;
+}
+.p2{
+    
+    font-size: 14.5px;
+    color:#365899;
+     padding: 10px  10px 10px 10px;
+}
+.p3{
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
